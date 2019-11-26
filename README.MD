@@ -36,9 +36,9 @@ Contributing isn’t limited to just code. We encourage you to contribute in the
 
 Think you’ve found a bug? We’d love for you to help us get it fixed.
 
-Before you create a new issue, you should [search existing issues](https://github.com/chris-odell-focs/VS_Light_Theme_For_Block_Editor_Customiser/issues) to see if there’s an existing resolution to it, or if it’s already been fixed in a newer version.
+Before you create a new issue, you should [search existing issues](https://github.com/chris-odell-focs/Disable_Core_Blocks_Addon_For_Block_Editor_Customiser/issues) to see if there’s an existing resolution to it, or if it’s already been fixed in a newer version.
 
-Once you’ve done a bit of searching and discovered there isn’t an open or fixed issue for your bug, please [create a new issue](https://github.com/chris-odell-focs/VS_Light_Theme_For_Block_Editor_Customiser/issues/new). Include as much detail as you can, and clear steps to reproduce if possible.
+Once you’ve done a bit of searching and discovered there isn’t an open or fixed issue for your bug, please [create a new issue](https://github.com/chris-odell-focs/Disable_Core_Blocks_Addon_For_Block_Editor_Customiser/issues/new). Include as much detail as you can, and clear steps to reproduce if possible.
 
 ### Creating a pull request
 
