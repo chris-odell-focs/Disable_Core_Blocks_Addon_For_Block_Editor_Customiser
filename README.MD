@@ -42,4 +42,4 @@ Once you’ve done a bit of searching and discovered there isn’t an open or fi
 
 ### Creating a pull request
 
-Want to contribute a new feature? Please first [open a new issue](https://github.com/chris-odell-focs/VS_Light_Theme_For_Block_Editor_Customiser/issues/new) to discuss whether the feature is a good fit for the project.
+Want to contribute a new feature? Please first [open a new issue](https://github.com/chris-odell-focs/chris-odell-focs/Disable_Core_Blocks_Addon_For_Block_Editor_Customiser/issues/new) to discuss whether the feature is a good fit for the project.
