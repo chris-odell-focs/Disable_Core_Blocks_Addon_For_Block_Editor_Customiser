@@ -4,7 +4,7 @@ Donate link: https://ko-fi.com/chrisodell
 Tags: gutenberg, block-editor, customize
 Requires at least: 5.1
 Tested up to: 5.2.3
-Stable tag: 1.5.1
+Stable tag: 1.0.0
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -54,4 +54,4 @@ Disable core blocks to restrict users to certain features.
 == FAQ ==
 
 Q. What core blocks can I disable?
-A. Any off the core Block Editor blocks can be disabled.
+A. Any of the core Block Editor blocks can be disabled.
